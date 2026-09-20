@@ -1,0 +1,10 @@
+{
+	"ejecutable": "RUTA_AL_EJECUTABLE_LLAMA_SERVER",
+	"host": "127.0.0.1",
+	"contexto": 2048,
+	"capas": 999,
+	"modelo_lenguaje": "RUTA_AL_MODELO_DE_LENGUAJE",
+	"modelo_embeddings": "RUTA_AL_MODELO_DE_EMBEDDINGS",
+	"puerto_lenguaje": 8080,
+	"puerto_embeddings": 8081
+}
